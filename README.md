@@ -17,7 +17,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Installation
+## Docker
 
 ```bash
 # run as container
